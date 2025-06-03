@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/1C_Company_logo.png" alt="1C" width="40" height="40" />
+  <img src="https://banner2.cleanpng.com/20180528/wfi/kisspng-1-1c-enterprise-1c-compan-5b0cc71a222097.5815890815275640581398.jpg" alt="1C" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
@@ -25,7 +25,6 @@
 <p align="center">
   <img src="https://cataas.com/cat/gif" alt="Случайный котик с Cataas" width="300" />
 </p>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Котик машет лапкой" />
