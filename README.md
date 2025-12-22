@@ -1,10 +1,3 @@
-# Привет👋🐱
-
-## Веб-разработчик | React | Node.js | Python | Java | 1С | CSS | Препроцессоры | MySQL | Figma
-
----
-
-### 🛠 Мой технологический стек
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
