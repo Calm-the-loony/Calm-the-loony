@@ -38,22 +38,6 @@
 
 <br>
 
-<!-- 2. ТРОФЕИ (значки достижений) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Calm-the-loony&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
-<br>
-
-<!-- 3. ЗМЕЙКА (анимация вкладов) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Calm-the-loony/Calm-the-loony/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Calm-the-loony/Calm-the-loony/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Calm-the-loony/Calm-the-loony/output/github-snake.svg" />
-</picture>
-
-<br>
-
 ---
 
 ### 🐾 немного котиков
